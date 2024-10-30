@@ -1,0 +1,102 @@
+RECEIVED DATE: 2020-09-02 07:13:06 
+{"event":"booking.created","event_id":1,"event_time":1599030786072,"data":{"trip_id":"5f4f46020cfed43ab4896a81","service_code":21}}
+
+RECEIVED DATE: 2020-09-02 07:13:09 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1599030786317,"data":{"trip_id":"5f4f46020cfed43ab4896a81","tracking_link":"https://bykea.page.link/mwseiw"}}
+
+RECEIVED DATE: 2020-09-02 07:21:01 
+{"event":"booking.accepted","event_id":2,"event_time":1599031259741,"data":{"trip_id":"5f4f46020cfed43ab4896a81","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-09-02 07:21:19 
+{"event":"batch.arrived","event_id":29,"event_time":1599031277864,"data":{"batch_id":"5f4f46020cfed43ab4896a7f","service_code":100}}
+
+RECEIVED DATE: 2020-09-02 07:21:20 
+{"event":"booking.arrived","event_id":3,"event_time":1599031277871,"data":{"trip_id":"5f4f46020cfed43ab4896a81","service_code":21}}
+
+RECEIVED DATE: 2020-09-02 07:26:30 
+{"event":"batch.started","event_id":30,"event_time":1599031590551,"data":{"batch_id":"5f4f46020cfed43ab4896a7f","service_code":100}}
+
+RECEIVED DATE: 2020-09-02 07:26:31 
+{"event":"booking.started","event_id":4,"event_time":1599031590551,"data":{"trip_id":"5f4f46020cfed43ab4896a81","service_code":21}}
+
+RECEIVED DATE: 2020-09-02 07:32:44 
+{"event":"booking.finished","event_id":5,"event_time":1599031963538,"data":{"trip_id":"5f4f46020cfed43ab4896a81","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-09-02 08:55:26 
+{"event":"booking.created","event_id":1,"event_time":1599036926533,"data":{"trip_id":"5f4f5dfe0cfed43ab4896abd","service_code":22}}
+
+RECEIVED DATE: 2020-09-02 08:55:27 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1599036926760,"data":{"trip_id":"5f4f5dfe0cfed43ab4896abd","tracking_link":"https://bykea.page.link/bGCxJL"}}
+
+RECEIVED DATE: 2020-09-02 08:55:29 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1599036928981,"data":{"trip_id":"5f4f46020cfed43ab4896a81","service_code":21}}
+
+RECEIVED DATE: 2020-09-02 08:55:40 
+{"event":"booking.finished","event_id":5,"event_time":1599036939768,"data":{"trip_id":"5f4f5dfe0cfed43ab4896abd","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-09-18 14:38:16 
+{"event":"booking.created","event_id":1,"event_time":1600439896277,"data":{"trip_id":"5f64c6581f93656bc9e8c34b","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:40:19 
+{"event":"booking.created","event_id":1,"event_time":1600440018874,"data":{"trip_id":"5f64c6d21f93656bc9e8c351","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:40:19 
+{"event":"booking.created","event_id":1,"event_time":1600440018939,"data":{"trip_id":"5f64c6d21f93656bc9e8c353","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:54:15 
+{"event":"batch.expired","event_id":34,"event_time":1600440855047,"data":{"batch_id":"5f64c6581f93656bc9e8c349","service_code":100}}
+
+RECEIVED DATE: 2020-09-18 14:54:16 
+{"event":"booking.expired","event_id":8,"event_time":1600440855058,"data":{"trip_id":"5f64c6581f93656bc9e8c34b","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:56:15 
+{"event":"batch.expired","event_id":34,"event_time":1600440975027,"data":{"batch_id":"5f64c6d21f93656bc9e8c34f","service_code":100}}
+
+RECEIVED DATE: 2020-09-18 14:56:16 
+{"event":"booking.expired","event_id":8,"event_time":1600440975036,"data":{"trip_id":"5f64c6d21f93656bc9e8c351","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:56:16 
+{"event":"booking.expired","event_id":8,"event_time":1600440975052,"data":{"trip_id":"5f64c6d21f93656bc9e8c353","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 14:57:29 
+{"event":"booking.created","event_id":1,"event_time":1600441049209,"data":{"trip_id":"5f64cad91f93656bc9e8c35e","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:06:25 
+{"event":"booking.created","event_id":1,"event_time":1600441584665,"data":{"trip_id":"5f64ccf01f93656bc9e8c364","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:06:25 
+{"event":"booking.created","event_id":1,"event_time":1600441584750,"data":{"trip_id":"5f64ccf01f93656bc9e8c366","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:13:16 
+{"event":"batch.expired","event_id":34,"event_time":1600441995039,"data":{"batch_id":"5f64cad91f93656bc9e8c35c","service_code":100}}
+
+RECEIVED DATE: 2020-09-18 15:13:16 
+{"event":"booking.expired","event_id":8,"event_time":1600441995051,"data":{"trip_id":"5f64cad91f93656bc9e8c35e","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:22:16 
+{"event":"batch.expired","event_id":34,"event_time":1600442535034,"data":{"batch_id":"5f64ccf01f93656bc9e8c362","service_code":100}}
+
+RECEIVED DATE: 2020-09-18 15:22:16 
+{"event":"booking.expired","event_id":8,"event_time":1600442535049,"data":{"trip_id":"5f64ccf01f93656bc9e8c364","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:22:16 
+{"event":"booking.expired","event_id":8,"event_time":1600442535066,"data":{"trip_id":"5f64ccf01f93656bc9e8c366","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:34:17 
+{"event":"booking.created","event_id":1,"event_time":1600443256576,"data":{"trip_id":"5f64d3781f93656bc9e8c371","service_code":21}}
+
+RECEIVED DATE: 2020-09-18 15:50:16 
+{"event":"batch.expired","event_id":34,"event_time":1600444215053,"data":{"batch_id":"5f64d3781f93656bc9e8c36f","service_code":100}}
+
+RECEIVED DATE: 2020-09-18 15:50:16 
+{"event":"booking.expired","event_id":8,"event_time":1600444215065,"data":{"trip_id":"5f64d3781f93656bc9e8c371","service_code":21}}
+
+RECEIVED DATE: 2020-09-24 06:38:45 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1600929504196,"data":{"trip_id":"5f4f5dfe0cfed43ab4896abd","service_code":22}}
+
+RECEIVED DATE: 2020-09-24 06:38:46 
+{"event":"booking.created","event_id":1,"event_time":1600929504405,"data":{"trip_id":"5f6c3ee045dfba167e4ebbca","service_code":21}}
+
+RECEIVED DATE: 2020-09-24 06:39:26 
+{"event":"booking.finished","event_id":5,"event_time":1600929565168,"data":{"trip_id":"5f6c3ee045dfba167e4ebbca","invoice":{"total":18999}}}
+

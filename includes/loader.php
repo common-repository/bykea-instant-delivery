@@ -1,0 +1,9 @@
+<?php
+require(BYDIZ_DIR."/includes/database.php");
+require(BYDIZ_DIR."/includes/system.php");
+require(BYDIZ_DIR."/includes/bykea-webhooks.php");
+require(BYDIZ_DIR."/includes/bykea-delivery-requests.php");
+require(BYDIZ_DIR."/includes/bykea-pickup-addresses.php");
+require(BYDIZ_DIR."/includes/meta-boxes.php");
+require(BYDIZ_DIR."/includes/woocommerce-settings.php");
+require(BYDIZ_DIR."/includes/functions.php");

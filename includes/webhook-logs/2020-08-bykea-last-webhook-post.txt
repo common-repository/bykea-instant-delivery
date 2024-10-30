@@ -1,0 +1,1101 @@
+RECEIVED DATE: 2020-08-15 12:42:05 
+{"event":"booking.created","event_id":1,"event_time":1597495325334,"data":{"trip_id":"5f37d81dad185a7ff3ee0b51","service_code":21}}
+
+RECEIVED DATE: 2020-08-15 12:42:06 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597495325553,"data":{"trip_id":"5f37d81dad185a7ff3ee0b51","tracking_link":"https://bykea.page.link/tefkLu"}}
+
+RECEIVED DATE: 2020-08-15 12:57:15 
+{"event":"batch.expired","event_id":34,"event_time":1597496235042,"data":{"batch_id":"5f37d81dad185a7ff3ee0b4f","service_code":100}}
+
+RECEIVED DATE: 2020-08-15 12:57:15 
+{"event":"booking.expired","event_id":8,"event_time":1597496235055,"data":{"trip_id":"5f37d81dad185a7ff3ee0b51","service_code":21}}
+
+RECEIVED DATE: 2020-08-15 12:59:18 
+{"event":"booking.created","event_id":1,"event_time":1597496357776,"data":{"trip_id":"5f37dc25ad185a7ff3ee0b59","service_code":21}}
+
+RECEIVED DATE: 2020-08-15 12:59:18 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597496357987,"data":{"trip_id":"5f37dc25ad185a7ff3ee0b59","tracking_link":"https://bykea.page.link/kJQRNv"}}
+
+RECEIVED DATE: 2020-08-15 13:15:15 
+{"event":"batch.expired","event_id":34,"event_time":1597497315043,"data":{"batch_id":"5f37dc25ad185a7ff3ee0b57","service_code":100}}
+
+RECEIVED DATE: 2020-08-15 13:15:15 
+{"event":"booking.expired","event_id":8,"event_time":1597497315053,"data":{"trip_id":"5f37dc25ad185a7ff3ee0b59","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 17:19:51 
+{"event":"booking.created","event_id":1,"event_time":1597598391380,"data":{"trip_id":"5f396ab7ad185a7ff3ee0b6a","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 17:19:52 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597598391600,"data":{"trip_id":"5f396ab7ad185a7ff3ee0b6a","tracking_link":"https://bykea.page.link/GTx4vP"}}
+
+RECEIVED DATE: 2020-08-16 17:21:28 
+{"event":"booking.created","event_id":1,"event_time":1597598488073,"data":{"trip_id":"5f396b18ad185a7ff3ee0b70","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 17:21:29 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597598488282,"data":{"trip_id":"5f396b18ad185a7ff3ee0b70","tracking_link":"https://bykea.page.link/5bscGh"}}
+
+RECEIVED DATE: 2020-08-16 17:35:15 
+{"event":"batch.expired","event_id":34,"event_time":1597599315030,"data":{"batch_id":"5f396ab7ad185a7ff3ee0b68","service_code":100}}
+
+RECEIVED DATE: 2020-08-16 17:35:16 
+{"event":"booking.expired","event_id":8,"event_time":1597599315044,"data":{"trip_id":"5f396ab7ad185a7ff3ee0b6a","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 17:37:16 
+{"event":"batch.expired","event_id":34,"event_time":1597599435035,"data":{"batch_id":"5f396b18ad185a7ff3ee0b6e","service_code":100}}
+
+RECEIVED DATE: 2020-08-16 17:37:16 
+{"event":"booking.expired","event_id":8,"event_time":1597599435062,"data":{"trip_id":"5f396b18ad185a7ff3ee0b70","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:19:03 
+{"event":"booking.created","event_id":1,"event_time":1597612742751,"data":{"trip_id":"5f39a2c6ad185a7ff3ee0b7a","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:19:04 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597612742992,"data":{"trip_id":"5f39a2c6ad185a7ff3ee0b7a","tracking_link":"https://bykea.page.link/3gAhix"}}
+
+RECEIVED DATE: 2020-08-16 21:22:14 
+{"event":"booking.created","event_id":1,"event_time":1597612934154,"data":{"trip_id":"5f39a386ad185a7ff3ee0b80","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:22:15 
+{"event":"booking.created","event_id":1,"event_time":1597612934218,"data":{"trip_id":"5f39a386ad185a7ff3ee0b82","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:22:15 
+{"event":"booking.created","event_id":1,"event_time":1597612934272,"data":{"trip_id":"5f39a386ad185a7ff3ee0b84","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:22:15 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597612934383,"data":{"trip_id":"5f39a386ad185a7ff3ee0b80","tracking_link":"https://bykea.page.link/4UF1zq"}}
+
+RECEIVED DATE: 2020-08-16 21:22:16 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597612934625,"data":{"trip_id":"5f39a386ad185a7ff3ee0b82","tracking_link":"https://bykea.page.link/cgHT5D"}}
+
+RECEIVED DATE: 2020-08-16 21:22:16 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597612934846,"data":{"trip_id":"5f39a386ad185a7ff3ee0b84","tracking_link":"https://bykea.page.link/is1EtJ"}}
+
+RECEIVED DATE: 2020-08-16 21:34:15 
+{"event":"batch.expired","event_id":34,"event_time":1597613655026,"data":{"batch_id":"5f39a2c6ad185a7ff3ee0b78","service_code":100}}
+
+RECEIVED DATE: 2020-08-16 21:34:16 
+{"event":"booking.expired","event_id":8,"event_time":1597613655035,"data":{"trip_id":"5f39a2c6ad185a7ff3ee0b7a","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:37:16 
+{"event":"batch.expired","event_id":34,"event_time":1597613835026,"data":{"batch_id":"5f39a386ad185a7ff3ee0b7e","service_code":100}}
+
+RECEIVED DATE: 2020-08-16 21:37:16 
+{"event":"booking.expired","event_id":8,"event_time":1597613835034,"data":{"trip_id":"5f39a386ad185a7ff3ee0b80","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:37:16 
+{"event":"booking.expired","event_id":8,"event_time":1597613835040,"data":{"trip_id":"5f39a386ad185a7ff3ee0b82","service_code":21}}
+
+RECEIVED DATE: 2020-08-16 21:37:17 
+{"event":"booking.expired","event_id":8,"event_time":1597613835046,"data":{"trip_id":"5f39a386ad185a7ff3ee0b84","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:23:42 
+{"event":"booking.created","event_id":1,"event_time":1597641821930,"data":{"trip_id":"5f3a145dad185a7ff3ee0b90","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:23:42 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597641822143,"data":{"trip_id":"5f3a145dad185a7ff3ee0b90","tracking_link":"https://bykea.page.link/YwizLU"}}
+
+RECEIVED DATE: 2020-08-17 05:24:30 
+{"event":"booking.created","event_id":1,"event_time":1597641870130,"data":{"trip_id":"5f3a148ead185a7ff3ee0b96","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:24:31 
+{"event":"booking.created","event_id":1,"event_time":1597641870182,"data":{"trip_id":"5f3a148ead185a7ff3ee0b98","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:24:31 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597641870350,"data":{"trip_id":"5f3a148ead185a7ff3ee0b96","tracking_link":"https://bykea.page.link/xcBNSy"}}
+
+RECEIVED DATE: 2020-08-17 05:24:31 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597641870553,"data":{"trip_id":"5f3a148ead185a7ff3ee0b98","tracking_link":"https://bykea.page.link/84Lktp"}}
+
+RECEIVED DATE: 2020-08-17 05:39:16 
+{"event":"batch.expired","event_id":34,"event_time":1597642755029,"data":{"batch_id":"5f3a145dad185a7ff3ee0b8e","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 05:39:16 
+{"event":"booking.expired","event_id":8,"event_time":1597642755044,"data":{"trip_id":"5f3a145dad185a7ff3ee0b90","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:40:15 
+{"event":"batch.expired","event_id":34,"event_time":1597642815029,"data":{"batch_id":"5f3a148ead185a7ff3ee0b94","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 05:40:16 
+{"event":"booking.expired","event_id":8,"event_time":1597642815047,"data":{"trip_id":"5f3a148ead185a7ff3ee0b96","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:40:16 
+{"event":"booking.expired","event_id":8,"event_time":1597642815054,"data":{"trip_id":"5f3a148ead185a7ff3ee0b98","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:42:33 
+{"event":"booking.created","event_id":1,"event_time":1597642953426,"data":{"trip_id":"5f3a18c9ad185a7ff3ee0ba4","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 05:42:34 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597642953655,"data":{"trip_id":"5f3a18c9ad185a7ff3ee0ba4","tracking_link":"https://bykea.page.link/wttsqD"}}
+
+RECEIVED DATE: 2020-08-17 05:58:16 
+{"event":"batch.expired","event_id":34,"event_time":1597643895040,"data":{"batch_id":"5f3a18c9ad185a7ff3ee0ba2","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 05:58:17 
+{"event":"booking.expired","event_id":8,"event_time":1597643895051,"data":{"trip_id":"5f3a18c9ad185a7ff3ee0ba4","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:37:22 
+{"event":"booking.created","event_id":1,"event_time":1597646242395,"data":{"trip_id":"5f3a25a27871023f4866ee54","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:37:24 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597646242615,"data":{"trip_id":"5f3a25a27871023f4866ee54","tracking_link":"https://bykea.page.link/37T9Wi"}}
+
+RECEIVED DATE: 2020-08-17 06:53:15 
+{"event":"batch.expired","event_id":34,"event_time":1597647195029,"data":{"batch_id":"5f3a25a27871023f4866ee52","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 06:53:16 
+{"event":"booking.expired","event_id":8,"event_time":1597647195041,"data":{"trip_id":"5f3a25a27871023f4866ee54","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:53:40 
+{"event":"booking.created","event_id":1,"event_time":1597647219259,"data":{"trip_id":"5f3a29737871023f4866ee66","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:53:40 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597647219470,"data":{"trip_id":"5f3a29737871023f4866ee66","tracking_link":"https://bykea.page.link/ddUimc"}}
+
+RECEIVED DATE: 2020-08-17 06:57:48 
+{"event":"booking.created","event_id":1,"event_time":1597647468227,"data":{"trip_id":"5f3a2a6c7871023f4866ee72","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:57:49 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597647468435,"data":{"trip_id":"5f3a2a6c7871023f4866ee72","tracking_link":"https://bykea.page.link/LD86ic"}}
+
+RECEIVED DATE: 2020-08-17 06:57:52 
+{"event":"booking.created","event_id":1,"event_time":1597647471051,"data":{"trip_id":"5f3a2a6f7871023f4866ee78","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 06:57:54 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597647471255,"data":{"trip_id":"5f3a2a6f7871023f4866ee78","tracking_link":"https://bykea.page.link/KXQfJG"}}
+
+RECEIVED DATE: 2020-08-17 07:00:20 
+{"event":"booking.created","event_id":1,"event_time":1597647620133,"data":{"trip_id":"5f3a2b047871023f4866ee7e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:00:21 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597647620356,"data":{"trip_id":"5f3a2b047871023f4866ee7e","tracking_link":"https://bykea.page.link/xDGwPL"}}
+
+RECEIVED DATE: 2020-08-17 07:09:17 
+{"event":"batch.expired","event_id":34,"event_time":1597648155029,"data":{"batch_id":"5f3a29737871023f4866ee64","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:09:18 
+{"event":"booking.expired","event_id":8,"event_time":1597648155037,"data":{"trip_id":"5f3a29737871023f4866ee66","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:11:19 
+{"event":"booking.created","event_id":1,"event_time":1597648279023,"data":{"trip_id":"5f3a2d977871023f4866ee86","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:11:20 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597648279290,"data":{"trip_id":"5f3a2d977871023f4866ee86","tracking_link":"https://bykea.page.link/RQb65x"}}
+
+RECEIVED DATE: 2020-08-17 07:13:17 
+{"event":"batch.expired","event_id":34,"event_time":1597648395050,"data":{"batch_id":"5f3a2a6f7871023f4866ee76","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:13:19 
+{"event":"booking.expired","event_id":8,"event_time":1597648395068,"data":{"trip_id":"5f3a2a6f7871023f4866ee78","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:13:20 
+{"event":"batch.expired","event_id":34,"event_time":1597648395070,"data":{"batch_id":"5f3a2a6c7871023f4866ee70","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:13:20 
+{"event":"booking.expired","event_id":8,"event_time":1597648395087,"data":{"trip_id":"5f3a2a6c7871023f4866ee72","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:16:15 
+{"event":"batch.expired","event_id":34,"event_time":1597648575026,"data":{"batch_id":"5f3a2b047871023f4866ee7c","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:16:15 
+{"event":"booking.expired","event_id":8,"event_time":1597648575034,"data":{"trip_id":"5f3a2b047871023f4866ee7e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:22:36 
+{"event":"booking.accepted","event_id":2,"event_time":1597648955947,"data":{"trip_id":"5f3a2d977871023f4866ee86","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-17 07:23:11 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1597648990802,"data":{"batch_id":"5f3a2d967871023f4866ee84","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:24:42 
+{"event":"booking.created","event_id":1,"event_time":1597649082004,"data":{"trip_id":"5f3a30b97871023f4866ee9e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:24:43 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597649082242,"data":{"trip_id":"5f3a30b97871023f4866ee9e","tracking_link":"https://bykea.page.link/KULcs6"}}
+
+RECEIVED DATE: 2020-08-17 07:24:55 
+{"event":"booking.accepted","event_id":2,"event_time":1597649095642,"data":{"trip_id":"5f3a30b97871023f4866ee9e","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-17 07:25:12 
+{"event":"batch.arrived","event_id":29,"event_time":1597649112429,"data":{"batch_id":"5f3a30b97871023f4866ee9c","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:25:13 
+{"event":"booking.arrived","event_id":3,"event_time":1597649112435,"data":{"trip_id":"5f3a30b97871023f4866ee9e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:25:22 
+{"event":"booking.started","event_id":4,"event_time":1597649121956,"data":{"trip_id":"5f3a30b97871023f4866ee9e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:25:22 
+{"event":"batch.started","event_id":30,"event_time":1597649121956,"data":{"batch_id":"5f3a30b97871023f4866ee9c","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:25:34 
+{"event":"booking.finished","event_id":5,"event_time":1597649133846,"data":{"trip_id":"5f3a30b97871023f4866ee9e","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-17 07:26:21 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597649180586,"data":{"trip_id":"5f3a30b97871023f4866ee9e","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 07:28:15 
+{"event":"batch.expired","event_id":34,"event_time":1597649295025,"data":{"batch_id":"5f3a2d967871023f4866ee84","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 07:28:15 
+{"event":"booking.expired","event_id":8,"event_time":1597649295033,"data":{"trip_id":"5f3a2d977871023f4866ee86","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:08:45 
+{"event":"booking.created","event_id":1,"event_time":1597651725066,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:08:46 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597651725272,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","tracking_link":"https://bykea.page.link/Ly81kr"}}
+
+RECEIVED DATE: 2020-08-17 08:09:33 
+{"event":"booking.accepted","event_id":2,"event_time":1597651773359,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-17 08:09:40 
+{"event":"batch.arrived","event_id":29,"event_time":1597651780237,"data":{"batch_id":"5f3a3b0d7871023f4866eebc","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 08:09:41 
+{"event":"booking.arrived","event_id":3,"event_time":1597651780250,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:13:27 
+{"event":"booking.started","event_id":4,"event_time":1597652005587,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:13:29 
+{"event":"batch.started","event_id":30,"event_time":1597652005587,"data":{"batch_id":"5f3a3b0d7871023f4866eebc","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 08:14:19 
+{"event":"booking.finished","event_id":5,"event_time":1597652058523,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-17 08:15:26 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597652124835,"data":{"trip_id":"5f3a3b0d7871023f4866eebe","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:51:18 
+{"event":"booking.created","event_id":1,"event_time":1597654277841,"data":{"trip_id":"5f3a45057871023f4866eedf","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 08:51:18 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597654278086,"data":{"trip_id":"5f3a45057871023f4866eedf","tracking_link":"https://bykea.page.link/htiMMP"}}
+
+RECEIVED DATE: 2020-08-17 08:51:37 
+{"event":"booking.accepted","event_id":2,"event_time":1597654296836,"data":{"trip_id":"5f3a45057871023f4866eedf","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-17 08:51:45 
+{"event":"batch.arrived","event_id":29,"event_time":1597654304152,"data":{"batch_id":"5f3a45057871023f4866eedd","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 08:51:45 
+{"event":"booking.arrived","event_id":3,"event_time":1597654304157,"data":{"trip_id":"5f3a45057871023f4866eedf","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 10:40:12 
+{"event":"booking.created","event_id":1,"event_time":1597660811232,"data":{"trip_id":"5f3a5e8b7871023f4866eeff","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 10:40:13 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597660811459,"data":{"trip_id":"5f3a5e8b7871023f4866eeff","tracking_link":"https://bykea.page.link/Yu7HtP"}}
+
+RECEIVED DATE: 2020-08-17 10:55:15 
+{"event":"batch.expired","event_id":34,"event_time":1597661715043,"data":{"batch_id":"5f3a5e8b7871023f4866eefd","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 10:55:15 
+{"event":"booking.expired","event_id":8,"event_time":1597661715053,"data":{"trip_id":"5f3a5e8b7871023f4866eeff","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 12:31:37 
+{"event":"booking.created","event_id":1,"event_time":1597667496680,"data":{"trip_id":"5f3a78a87871023f4866ef0b","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 12:31:38 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597667496902,"data":{"trip_id":"5f3a78a87871023f4866ef0b","tracking_link":"https://bykea.page.link/kEZzN2"}}
+
+RECEIVED DATE: 2020-08-17 12:37:00 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1597667820361,"data":{"batch_id":"5f3a45057871023f4866eedd","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 12:37:15 
+{"event":"batch.expired","event_id":34,"event_time":1597667835027,"data":{"batch_id":"5f3a45057871023f4866eedd","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 12:37:15 
+{"event":"booking.expired","event_id":8,"event_time":1597667835035,"data":{"trip_id":"5f3a45057871023f4866eedf","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 12:37:24 
+{"event":"booking.accepted","event_id":2,"event_time":1597667843895,"data":{"trip_id":"5f3a78a87871023f4866ef0b","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-17 12:37:27 
+{"event":"batch.arrived","event_id":29,"event_time":1597667847496,"data":{"batch_id":"5f3a78a87871023f4866ef09","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 12:37:30 
+{"event":"booking.arrived","event_id":3,"event_time":1597667847502,"data":{"trip_id":"5f3a78a87871023f4866ef0b","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 12:37:45 
+{"event":"booking.started","event_id":4,"event_time":1597667865131,"data":{"trip_id":"5f3a78a87871023f4866ef0b","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 12:37:46 
+{"event":"batch.started","event_id":30,"event_time":1597667865131,"data":{"batch_id":"5f3a78a87871023f4866ef09","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 12:37:53 
+{"event":"booking.finished","event_id":5,"event_time":1597667872938,"data":{"trip_id":"5f3a78a87871023f4866ef0b","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-17 12:38:58 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597667934891,"data":{"trip_id":"5f3a78a87871023f4866ef0b","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 15:49:18 
+{"event":"booking.created","event_id":1,"event_time":1597679358387,"data":{"trip_id":"5f3aa6fe7871023f4866ef52","service_code":21}}
+
+RECEIVED DATE: 2020-08-17 15:49:19 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597679358609,"data":{"trip_id":"5f3aa6fe7871023f4866ef52","tracking_link":"https://bykea.page.link/gDSjLe"}}
+
+RECEIVED DATE: 2020-08-17 16:05:16 
+{"event":"batch.expired","event_id":34,"event_time":1597680315043,"data":{"batch_id":"5f3aa6fe7871023f4866ef50","service_code":100}}
+
+RECEIVED DATE: 2020-08-17 16:05:17 
+{"event":"booking.expired","event_id":8,"event_time":1597680315052,"data":{"trip_id":"5f3aa6fe7871023f4866ef52","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 05:22:01 
+{"event":"booking.created","event_id":1,"event_time":1597728121225,"data":{"trip_id":"5f3b65797871023f4866ef5b","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 05:22:02 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597728121457,"data":{"trip_id":"5f3b65797871023f4866ef5b","tracking_link":"https://bykea.page.link/9fsKX1"}}
+
+RECEIVED DATE: 2020-08-18 05:22:32 
+{"event":"booking.accepted","event_id":2,"event_time":1597728151705,"data":{"trip_id":"5f3b65797871023f4866ef5b","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 05:22:37 
+{"event":"batch.arrived","event_id":29,"event_time":1597728157065,"data":{"batch_id":"5f3b65797871023f4866ef59","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 05:22:37 
+{"event":"booking.arrived","event_id":3,"event_time":1597728157074,"data":{"trip_id":"5f3b65797871023f4866ef5b","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 05:24:25 
+{"event":"booking.started","event_id":4,"event_time":1597728265525,"data":{"trip_id":"5f3b65797871023f4866ef5b","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 05:24:26 
+{"event":"batch.started","event_id":30,"event_time":1597728265528,"data":{"batch_id":"5f3b65797871023f4866ef59","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 05:24:33 
+{"event":"booking.finished","event_id":5,"event_time":1597728273165,"data":{"trip_id":"5f3b65797871023f4866ef5b","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 05:25:31 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597728329582,"data":{"trip_id":"5f3b65797871023f4866ef5b","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 06:22:40 
+{"event":"booking.created","event_id":1,"event_time":1597731759782,"data":{"trip_id":"5f3b73af7871023f4866efa1","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 06:22:40 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597731760022,"data":{"trip_id":"5f3b73af7871023f4866efa1","tracking_link":"https://bykea.page.link/R6PS8m"}}
+
+RECEIVED DATE: 2020-08-18 06:23:18 
+{"event":"booking.accepted","event_id":2,"event_time":1597731798095,"data":{"trip_id":"5f3b73af7871023f4866efa1","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 06:23:35 
+{"event":"batch.arrived","event_id":29,"event_time":1597731814725,"data":{"batch_id":"5f3b73af7871023f4866ef9f","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 06:23:35 
+{"event":"booking.arrived","event_id":3,"event_time":1597731814735,"data":{"trip_id":"5f3b73af7871023f4866efa1","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 07:08:57 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1597734537060,"data":{"batch_id":"5f3b73af7871023f4866ef9f","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 07:09:16 
+{"event":"batch.expired","event_id":34,"event_time":1597734555028,"data":{"batch_id":"5f3b73af7871023f4866ef9f","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 07:09:16 
+{"event":"booking.expired","event_id":8,"event_time":1597734555038,"data":{"trip_id":"5f3b73af7871023f4866efa1","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 07:18:08 
+{"event":"booking.created","event_id":1,"event_time":1597735087982,"data":{"trip_id":"5f3b80af7871023f4866efbc","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 07:18:09 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597735088222,"data":{"trip_id":"5f3b80af7871023f4866efbc","tracking_link":"https://bykea.page.link/BzCpzG"}}
+
+RECEIVED DATE: 2020-08-18 07:19:16 
+{"event":"booking.accepted","event_id":2,"event_time":1597735154315,"data":{"trip_id":"5f3b80af7871023f4866efbc","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 07:19:22 
+{"event":"batch.arrived","event_id":29,"event_time":1597735162071,"data":{"batch_id":"5f3b80af7871023f4866efba","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 07:19:22 
+{"event":"booking.arrived","event_id":3,"event_time":1597735162084,"data":{"trip_id":"5f3b80af7871023f4866efbc","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 07:28:21 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1597735699833,"data":{"batch_id":"5f3b80af7871023f4866efba","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 07:33:16 
+{"event":"batch.expired","event_id":34,"event_time":1597735995025,"data":{"batch_id":"5f3b80af7871023f4866efba","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 07:33:19 
+{"event":"booking.expired","event_id":8,"event_time":1597735995035,"data":{"trip_id":"5f3b80af7871023f4866efbc","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 08:09:21 
+{"event":"booking.created","event_id":1,"event_time":1597738161116,"data":{"trip_id":"5f3b8cb17871023f4866efe4","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 08:09:22 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597738161337,"data":{"trip_id":"5f3b8cb17871023f4866efe4","tracking_link":"https://bykea.page.link/WWaBfp"}}
+
+RECEIVED DATE: 2020-08-18 08:09:33 
+{"event":"booking.accepted","event_id":2,"event_time":1597738172881,"data":{"trip_id":"5f3b8cb17871023f4866efe4","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923422809056"}}}
+
+RECEIVED DATE: 2020-08-18 08:09:46 
+{"event":"batch.arrived","event_id":29,"event_time":1597738186458,"data":{"batch_id":"5f3b8cb17871023f4866efe2","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 08:09:47 
+{"event":"booking.arrived","event_id":3,"event_time":1597738186463,"data":{"trip_id":"5f3b8cb17871023f4866efe4","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 08:15:38 
+{"event":"booking.created","event_id":1,"event_time":1597738538226,"data":{"trip_id":"5f3b8e2a7871023f4866eff7","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 08:15:39 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597738538457,"data":{"trip_id":"5f3b8e2a7871023f4866eff7","tracking_link":"https://bykea.page.link/PHa7wo"}}
+
+RECEIVED DATE: 2020-08-18 08:31:15 
+{"event":"batch.expired","event_id":34,"event_time":1597739475029,"data":{"batch_id":"5f3b8e2a7871023f4866eff5","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 08:31:16 
+{"event":"booking.expired","event_id":8,"event_time":1597739475045,"data":{"trip_id":"5f3b8e2a7871023f4866eff7","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 10:42:17 
+{"event":"booking.created","event_id":1,"event_time":1597747337115,"data":{"trip_id":"5f3bb089055ad11257a008ed","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 10:42:18 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597747337339,"data":{"trip_id":"5f3bb089055ad11257a008ed","tracking_link":"https://bykea.page.link/C38C4x"}}
+
+RECEIVED DATE: 2020-08-18 10:56:10 
+{"event":"booking.accepted","event_id":2,"event_time":1597748169162,"data":{"trip_id":"5f3bb089055ad11257a008ed","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 10:56:15 
+{"event":"batch.arrived","event_id":29,"event_time":1597748175482,"data":{"batch_id":"5f3bb089055ad11257a008eb","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 10:56:16 
+{"event":"booking.arrived","event_id":3,"event_time":1597748175504,"data":{"trip_id":"5f3bb089055ad11257a008ed","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 10:58:03 
+{"event":"booking.started","event_id":4,"event_time":1597748283003,"data":{"trip_id":"5f3bb089055ad11257a008ed","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 10:58:03 
+{"event":"batch.started","event_id":30,"event_time":1597748283003,"data":{"batch_id":"5f3bb089055ad11257a008eb","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 10:58:19 
+{"event":"booking.finished","event_id":5,"event_time":1597748298997,"data":{"trip_id":"5f3bb089055ad11257a008ed","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 10:59:20 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597748358055,"data":{"trip_id":"5f3bb089055ad11257a008ed","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:01:11 
+{"event":"booking.created","event_id":1,"event_time":1597748470963,"data":{"trip_id":"5f3bb4f6055ad11257a00915","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:01:12 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597748471200,"data":{"trip_id":"5f3bb4f6055ad11257a00915","tracking_link":"https://bykea.page.link/R3kyqn"}}
+
+RECEIVED DATE: 2020-08-18 11:02:19 
+{"event":"booking.created","event_id":1,"event_time":1597748538128,"data":{"trip_id":"5f3bb53a055ad11257a00922","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:02:19 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597748538352,"data":{"trip_id":"5f3bb53a055ad11257a00922","tracking_link":"https://bykea.page.link/B6CtZs"}}
+
+RECEIVED DATE: 2020-08-18 11:17:28 
+{"event":"booking.created","event_id":1,"event_time":1597749448521,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:17:29 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597749448744,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","tracking_link":"https://bykea.page.link/jHP1zg"}}
+
+RECEIVED DATE: 2020-08-18 11:19:09 
+{"event":"booking.accepted","event_id":2,"event_time":1597749548245,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 11:19:52 
+{"event":"batch.arrived","event_id":29,"event_time":1597749591915,"data":{"batch_id":"5f3bb8c8055ad11257a0092a","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:19:52 
+{"event":"booking.arrived","event_id":3,"event_time":1597749591922,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:22:10 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1597749728658,"data":{"batch_id":"5f3b8cb17871023f4866efe2","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:22:15 
+{"event":"batch.expired","event_id":34,"event_time":1597749735027,"data":{"batch_id":"5f3b8cb17871023f4866efe2","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:22:16 
+{"event":"booking.expired","event_id":8,"event_time":1597749735050,"data":{"trip_id":"5f3b8cb17871023f4866efe4","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:22:16 
+{"event":"booking.expired","event_id":8,"event_time":1597749735058,"data":{"trip_id":"5f3ba806055ad11257a008c9","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:22:17 
+{"event":"booking.expired","event_id":8,"event_time":1597749735079,"data":{"trip_id":"5f3bb4f6055ad11257a00915","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:22:17 
+{"event":"booking.expired","event_id":8,"event_time":1597749735083,"data":{"trip_id":"5f3bb53a055ad11257a00922","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:22:34 
+{"event":"booking.created","event_id":1,"event_time":1597749753629,"data":{"trip_id":"5f3bb9f9055ad11257a00957","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:22:34 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597749753851,"data":{"trip_id":"5f3bb9f9055ad11257a00957","tracking_link":"https://bykea.page.link/8saoxK"}}
+
+RECEIVED DATE: 2020-08-18 11:23:21 
+{"event":"booking.started","event_id":4,"event_time":1597749800217,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:23:21 
+{"event":"batch.started","event_id":30,"event_time":1597749800217,"data":{"batch_id":"5f3bb8c8055ad11257a0092a","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:23:26 
+{"event":"booking.finished","event_id":5,"event_time":1597749806304,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 11:24:03 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597749843590,"data":{"trip_id":"5f3bb8c8055ad11257a0092c","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:25:49 
+{"event":"booking.created","event_id":1,"event_time":1597749949085,"data":{"trip_id":"5f3bbabd055ad11257a0096f","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:25:50 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597749949333,"data":{"trip_id":"5f3bbabd055ad11257a0096f","tracking_link":"https://bykea.page.link/tijK7v"}}
+
+RECEIVED DATE: 2020-08-18 11:27:35 
+{"event":"booking.accepted","event_id":2,"event_time":1597750054616,"data":{"trip_id":"5f3bbabd055ad11257a0096f","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923422809056"}}}
+
+RECEIVED DATE: 2020-08-18 11:27:39 
+{"event":"batch.arrived","event_id":29,"event_time":1597750059509,"data":{"batch_id":"5f3bbabd055ad11257a0096d","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:27:40 
+{"event":"booking.arrived","event_id":3,"event_time":1597750059520,"data":{"trip_id":"5f3bbabd055ad11257a0096f","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:38:16 
+{"event":"batch.expired","event_id":34,"event_time":1597750695028,"data":{"batch_id":"5f3bb9f9055ad11257a00955","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 11:38:16 
+{"event":"booking.expired","event_id":8,"event_time":1597750695039,"data":{"trip_id":"5f3bb9f9055ad11257a00957","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 11:43:41 
+{"event":"booking.created","event_id":1,"event_time":1597751020951,"data":{"trip_id":"5f3bbeec055ad11257a0098e","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:43:41 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597751021170,"data":{"trip_id":"5f3bbeec055ad11257a0098e","tracking_link":"https://bykea.page.link/Sck9V3"}}
+
+RECEIVED DATE: 2020-08-18 11:44:28 
+{"event":"booking.created","event_id":1,"event_time":1597751067189,"data":{"trip_id":"5f3bbf1b055ad11257a00992","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 11:44:28 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597751067419,"data":{"trip_id":"5f3bbf1b055ad11257a00992","tracking_link":"https://bykea.page.link/AYRFru"}}
+
+RECEIVED DATE: 2020-08-18 12:12:01 
+{"event":"booking.created","event_id":1,"event_time":1597752721095,"data":{"trip_id":"5f3bc591055ad11257a009a5","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 12:12:01 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597752721332,"data":{"trip_id":"5f3bc591055ad11257a009a5","tracking_link":"https://bykea.page.link/D5BBbA"}}
+
+RECEIVED DATE: 2020-08-18 12:12:58 
+{"event":"booking.started","event_id":4,"event_time":1597752777151,"data":{"trip_id":"5f3bbabd055ad11257a0096f","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 12:12:58 
+{"event":"booking.started","event_id":4,"event_time":1597752777151,"data":{"trip_id":"5f3bbeec055ad11257a0098e","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 12:12:58 
+{"event":"booking.started","event_id":4,"event_time":1597752777151,"data":{"trip_id":"5f3bc591055ad11257a009a5","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 12:12:59 
+{"event":"batch.started","event_id":30,"event_time":1597752777152,"data":{"batch_id":"5f3bbabd055ad11257a0096d","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 12:13:05 
+{"event":"booking.finished","event_id":5,"event_time":1597752785239,"data":{"trip_id":"5f3bbeec055ad11257a0098e","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 12:13:48 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597752828144,"data":{"trip_id":"5f3bbeec055ad11257a0098e","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 12:13:56 
+{"event":"booking.finished","event_id":5,"event_time":1597752836394,"data":{"trip_id":"5f3bc591055ad11257a009a5","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 12:27:57 
+{"event":"booking.created","event_id":1,"event_time":1597753677029,"data":{"trip_id":"5f3bc94d055ad11257a009ca","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 12:27:57 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597753677255,"data":{"trip_id":"5f3bc94d055ad11257a009ca","tracking_link":"https://bykea.page.link/FzmL5h"}}
+
+RECEIVED DATE: 2020-08-18 12:27:59 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597753679457,"data":{"trip_id":"5f3bc591055ad11257a009a5","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 12:29:16 
+{"event":"booking.finished","event_id":5,"event_time":1597753756231,"data":{"trip_id":"5f3bbabd055ad11257a0096f","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 12:31:28 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597753888325,"data":{"trip_id":"5f3bbabd055ad11257a0096f","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 12:40:45 
+{"event":"booking.finished","event_id":5,"event_time":1597754445438,"data":{"trip_id":"5f3bc94d055ad11257a009ca","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 12:41:29 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597754488738,"data":{"trip_id":"5f3bc94d055ad11257a009ca","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 13:29:53 
+{"event":"booking.created","event_id":1,"event_time":1597757392742,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 13:29:54 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597757392972,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","tracking_link":"https://bykea.page.link/VhuFwG"}}
+
+RECEIVED DATE: 2020-08-18 13:30:07 
+{"event":"booking.accepted","event_id":2,"event_time":1597757407465,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-18 13:30:18 
+{"event":"batch.arrived","event_id":29,"event_time":1597757418140,"data":{"batch_id":"5f3bd7d0055ad11257a009fd","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 13:30:19 
+{"event":"booking.arrived","event_id":3,"event_time":1597757418145,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","service_code":21}}
+
+RECEIVED DATE: 2020-08-18 13:32:56 
+{"event":"booking.started","event_id":4,"event_time":1597757576054,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","service_code":22}}
+
+RECEIVED DATE: 2020-08-18 13:32:57 
+{"event":"batch.started","event_id":30,"event_time":1597757576054,"data":{"batch_id":"5f3bd7d0055ad11257a009fd","service_code":100}}
+
+RECEIVED DATE: 2020-08-18 13:33:05 
+{"event":"booking.finished","event_id":5,"event_time":1597757585604,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-18 13:33:42 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597757622654,"data":{"trip_id":"5f3bd7d0055ad11257a009ff","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 08:43:26 
+{"event":"booking.created","event_id":1,"event_time":1597913005795,"data":{"trip_id":"5f3e37ad104aaa69270d9287","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 08:43:27 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597913006011,"data":{"trip_id":"5f3e37ad104aaa69270d9287","tracking_link":"https://bykea.page.link/5KDzUF"}}
+
+RECEIVED DATE: 2020-08-20 08:59:16 
+{"event":"batch.expired","event_id":34,"event_time":1597913955034,"data":{"batch_id":"5f3e37ad104aaa69270d9285","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 08:59:17 
+{"event":"booking.expired","event_id":8,"event_time":1597913955045,"data":{"trip_id":"5f3e37ad104aaa69270d9287","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 09:48:26 
+{"event":"booking.created","event_id":1,"event_time":1597916905934,"data":{"trip_id":"5f3e46e9104aaa69270d92c3","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 09:48:26 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597916906154,"data":{"trip_id":"5f3e46e9104aaa69270d92c3","tracking_link":"https://bykea.page.link/qh7fdS"}}
+
+RECEIVED DATE: 2020-08-20 10:04:16 
+{"event":"batch.expired","event_id":34,"event_time":1597917855045,"data":{"batch_id":"5f3e46e9104aaa69270d92c1","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:04:17 
+{"event":"booking.expired","event_id":8,"event_time":1597917855056,"data":{"trip_id":"5f3e46e9104aaa69270d92c3","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:24:13 
+{"event":"booking.created","event_id":1,"event_time":1597919053459,"data":{"trip_id":"5f3e4f4d104aaa69270d92d4","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:24:14 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597919053673,"data":{"trip_id":"5f3e4f4d104aaa69270d92d4","tracking_link":"https://bykea.page.link/KPTsrE"}}
+
+RECEIVED DATE: 2020-08-20 10:27:23 
+{"event":"booking.created","event_id":1,"event_time":1597919243399,"data":{"trip_id":"5f3e500b104aaa69270d92e2","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:27:24 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597919243614,"data":{"trip_id":"5f3e500b104aaa69270d92e2","tracking_link":"https://bykea.page.link/qLHPsj"}}
+
+RECEIVED DATE: 2020-08-20 10:37:08 
+{"event":"booking.accepted","event_id":2,"event_time":1597919827414,"data":{"trip_id":"5f3e500b104aaa69270d92e2","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923422809056"}}}
+
+RECEIVED DATE: 2020-08-20 10:39:07 
+{"event":"batch.arrived","event_id":29,"event_time":1597919945723,"data":{"batch_id":"5f3e500b104aaa69270d92e0","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:39:07 
+{"event":"booking.arrived","event_id":3,"event_time":1597919945737,"data":{"trip_id":"5f3e500b104aaa69270d92e2","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:39:16 
+{"event":"batch.expired","event_id":34,"event_time":1597919955033,"data":{"batch_id":"5f3e4f4d104aaa69270d92d2","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:39:16 
+{"event":"booking.expired","event_id":8,"event_time":1597919955053,"data":{"trip_id":"5f3e4f4d104aaa69270d92d4","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:40:41 
+{"event":"booking.created","event_id":1,"event_time":1597920041019,"data":{"trip_id":"5f3e5329104aaa69270d92f9","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:40:42 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920041231,"data":{"trip_id":"5f3e5329104aaa69270d92f9","tracking_link":"https://bykea.page.link/BssoAb"}}
+
+RECEIVED DATE: 2020-08-20 10:41:44 
+{"event":"batch.started","event_id":30,"event_time":1597920103788,"data":{"batch_id":"5f3e500b104aaa69270d92e0","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:41:44 
+{"event":"booking.started","event_id":4,"event_time":1597920103788,"data":{"trip_id":"5f3e500b104aaa69270d92e2","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:41:44 
+{"event":"booking.started","event_id":4,"event_time":1597920103788,"data":{"trip_id":"5f3e5329104aaa69270d92f9","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:41:50 
+{"event":"booking.finished","event_id":5,"event_time":1597920110570,"data":{"trip_id":"5f3e500b104aaa69270d92e2","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:42:01 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920121500,"data":{"trip_id":"5f3e500b104aaa69270d92e2","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:42:06 
+{"event":"booking.finished","event_id":5,"event_time":1597920126131,"data":{"trip_id":"5f3e5329104aaa69270d92f9","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:42:28 
+{"event":"booking.created","event_id":1,"event_time":1597920146945,"data":{"trip_id":"5f3e5392104aaa69270d931b","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 10:42:28 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920147187,"data":{"trip_id":"5f3e5392104aaa69270d931b","tracking_link":"https://bykea.page.link/KYJQaV"}}
+
+RECEIVED DATE: 2020-08-20 10:42:29 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920149260,"data":{"trip_id":"5f3e5329104aaa69270d92f9","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:42:33 
+{"event":"booking.finished","event_id":5,"event_time":1597920153360,"data":{"trip_id":"5f3e5392104aaa69270d931b","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:43:54 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920234071,"data":{"trip_id":"5f3e5392104aaa69270d931b","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 10:43:54 
+{"event":"booking.created","event_id":1,"event_time":1597920234181,"data":{"trip_id":"5f3e53ea104aaa69270d932e","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:43:55 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920234418,"data":{"trip_id":"5f3e53ea104aaa69270d932e","tracking_link":"https://bykea.page.link/8yL77k"}}
+
+RECEIVED DATE: 2020-08-20 10:44:05 
+{"event":"booking.finished","event_id":5,"event_time":1597920244913,"data":{"trip_id":"5f3e53ea104aaa69270d932e","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:44:37 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920276605,"data":{"trip_id":"5f3e53ea104aaa69270d932e","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:47:07 
+{"event":"booking.created","event_id":1,"event_time":1597920427177,"data":{"trip_id":"5f3e54ab104aaa69270d9345","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:47:09 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920427401,"data":{"trip_id":"5f3e54ab104aaa69270d9345","tracking_link":"https://bykea.page.link/zRps6C"}}
+
+RECEIVED DATE: 2020-08-20 10:47:45 
+{"event":"booking.accepted","event_id":2,"event_time":1597920464810,"data":{"trip_id":"5f3e54ab104aaa69270d9345","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923422809056"}}}
+
+RECEIVED DATE: 2020-08-20 10:47:49 
+{"event":"batch.arrived","event_id":29,"event_time":1597920468729,"data":{"batch_id":"5f3e54ab104aaa69270d9343","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:47:49 
+{"event":"booking.arrived","event_id":3,"event_time":1597920468734,"data":{"trip_id":"5f3e54ab104aaa69270d9345","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:48:58 
+{"event":"batch.started","event_id":30,"event_time":1597920536338,"data":{"batch_id":"5f3e54ab104aaa69270d9343","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:48:58 
+{"event":"booking.started","event_id":4,"event_time":1597920536339,"data":{"trip_id":"5f3e54ab104aaa69270d9345","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 10:49:06 
+{"event":"booking.finished","event_id":5,"event_time":1597920545880,"data":{"trip_id":"5f3e54ab104aaa69270d9345","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:49:13 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920552501,"data":{"trip_id":"5f3e54ab104aaa69270d9345","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 10:49:13 
+{"event":"booking.created","event_id":1,"event_time":1597920552636,"data":{"trip_id":"5f3e5528104aaa69270d9368","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:49:14 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920552859,"data":{"trip_id":"5f3e5528104aaa69270d9368","tracking_link":"https://bykea.page.link/Bq8j7z"}}
+
+RECEIVED DATE: 2020-08-20 10:49:16 
+{"event":"booking.finished","event_id":5,"event_time":1597920556585,"data":{"trip_id":"5f3e5528104aaa69270d9368","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:49:49 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920588923,"data":{"trip_id":"5f3e5528104aaa69270d9368","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:53:25 
+{"event":"booking.created","event_id":1,"event_time":1597920804736,"data":{"trip_id":"5f3e5624104aaa69270d937e","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:53:25 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1597920804958,"data":{"trip_id":"5f3e5624104aaa69270d937e","tracking_link":"https://bykea.page.link/E9TYwx"}}
+
+RECEIVED DATE: 2020-08-20 10:53:30 
+{"event":"booking.accepted","event_id":2,"event_time":1597920810431,"data":{"trip_id":"5f3e5624104aaa69270d937e","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-20 10:53:55 
+{"event":"batch.arrived","event_id":29,"event_time":1597920835455,"data":{"batch_id":"5f3e5624104aaa69270d937c","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:53:56 
+{"event":"booking.arrived","event_id":3,"event_time":1597920835473,"data":{"trip_id":"5f3e5624104aaa69270d937e","service_code":21}}
+
+RECEIVED DATE: 2020-08-20 10:54:26 
+{"event":"batch.started","event_id":30,"event_time":1597920866020,"data":{"batch_id":"5f3e5624104aaa69270d937c","service_code":100}}
+
+RECEIVED DATE: 2020-08-20 10:54:26 
+{"event":"booking.started","event_id":4,"event_time":1597920866020,"data":{"trip_id":"5f3e5624104aaa69270d937e","service_code":22}}
+
+RECEIVED DATE: 2020-08-20 10:54:33 
+{"event":"booking.finished","event_id":5,"event_time":1597920873346,"data":{"trip_id":"5f3e5624104aaa69270d937e","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-20 10:55:34 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1597920932657,"data":{"trip_id":"5f3e5624104aaa69270d937e","service_code":22}}
+
+RECEIVED DATE: 2020-08-24 07:43:12 
+{"event":"booking.created","event_id":1,"event_time":1598254992459,"data":{"trip_id":"5f436f903bd3b57abd839920","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 07:43:13 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598254992679,"data":{"trip_id":"5f436f903bd3b57abd839920","tracking_link":"https://bykea.page.link/yh9hwJ"}}
+
+RECEIVED DATE: 2020-08-24 07:43:22 
+{"event":"booking.accepted","event_id":2,"event_time":1598255001790,"data":{"trip_id":"5f436f903bd3b57abd839920","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-24 07:43:29 
+{"event":"batch.arrived","event_id":29,"event_time":1598255009207,"data":{"batch_id":"5f436f903bd3b57abd83991e","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 07:43:30 
+{"event":"booking.arrived","event_id":3,"event_time":1598255009228,"data":{"trip_id":"5f436f903bd3b57abd839920","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 07:44:35 
+{"event":"batch.started","event_id":30,"event_time":1598255074505,"data":{"batch_id":"5f436f903bd3b57abd83991e","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 07:44:36 
+{"event":"booking.started","event_id":4,"event_time":1598255074505,"data":{"trip_id":"5f436f903bd3b57abd839920","service_code":22}}
+
+RECEIVED DATE: 2020-08-24 07:44:42 
+{"event":"booking.finished","event_id":5,"event_time":1598255082164,"data":{"trip_id":"5f436f903bd3b57abd839920","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-24 07:45:28 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1598255128609,"data":{"trip_id":"5f436f903bd3b57abd839920","service_code":22}}
+
+RECEIVED DATE: 2020-08-24 11:33:57 
+{"event":"booking.created","event_id":1,"event_time":1598268837461,"data":{"trip_id":"5f43a5a53bd3b57abd839bee","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 11:33:58 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598268837691,"data":{"trip_id":"5f43a5a53bd3b57abd839bee","tracking_link":"https://bykea.page.link/bFYLvq"}}
+
+RECEIVED DATE: 2020-08-24 11:49:16 
+{"event":"batch.expired","event_id":34,"event_time":1598269755041,"data":{"batch_id":"5f43a5a53bd3b57abd839bec","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 11:49:16 
+{"event":"booking.expired","event_id":8,"event_time":1598269755052,"data":{"trip_id":"5f43a5a53bd3b57abd839bee","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 12:51:43 
+{"event":"booking.created","event_id":1,"event_time":1598273503227,"data":{"trip_id":"5f43b7df3bd3b57abd839d5c","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 12:51:44 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598273503549,"data":{"trip_id":"5f43b7df3bd3b57abd839d5c","tracking_link":"https://bykea.page.link/YYf891"}}
+
+RECEIVED DATE: 2020-08-24 12:52:02 
+{"event":"booking.accepted","event_id":2,"event_time":1598273522574,"data":{"trip_id":"5f43b7df3bd3b57abd839d5c","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-24 12:52:07 
+{"event":"batch.arrived","event_id":29,"event_time":1598273526717,"data":{"batch_id":"5f43b7df3bd3b57abd839d5a","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 12:52:07 
+{"event":"booking.arrived","event_id":3,"event_time":1598273526724,"data":{"trip_id":"5f43b7df3bd3b57abd839d5c","service_code":21}}
+
+RECEIVED DATE: 2020-08-24 14:35:22 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1598279721292,"data":{"batch_id":"5f43b7df3bd3b57abd839d5a","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 14:36:16 
+{"event":"batch.expired","event_id":34,"event_time":1598279775031,"data":{"batch_id":"5f43b7df3bd3b57abd839d5a","service_code":100}}
+
+RECEIVED DATE: 2020-08-24 14:36:16 
+{"event":"booking.expired","event_id":8,"event_time":1598279775057,"data":{"trip_id":"5f43b7df3bd3b57abd839d5c","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:14:20 
+{"event":"booking.created","event_id":1,"event_time":1598476459847,"data":{"trip_id":"5f46d0ab2ff6be70feaf960b","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:14:20 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598476460070,"data":{"trip_id":"5f46d0ab2ff6be70feaf960b","tracking_link":"https://bykea.page.link/5qUKJf"}}
+
+RECEIVED DATE: 2020-08-26 21:14:58 
+{"event":"booking.created","event_id":1,"event_time":1598476497710,"data":{"trip_id":"5f46d0d12ff6be70feaf9611","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:14:58 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598476497935,"data":{"trip_id":"5f46d0d12ff6be70feaf9611","tracking_link":"https://bykea.page.link/xq2YCj"}}
+
+RECEIVED DATE: 2020-08-26 21:17:47 
+{"event":"booking.created","event_id":1,"event_time":1598476666813,"data":{"trip_id":"5f46d17a2ff6be70feaf9617","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:17:49 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598476667038,"data":{"trip_id":"5f46d17a2ff6be70feaf9617","tracking_link":"https://bykea.page.link/y37pFP"}}
+
+RECEIVED DATE: 2020-08-26 21:23:55 
+{"event":"booking.created","event_id":1,"event_time":1598477035166,"data":{"trip_id":"5f46d2eb2ff6be70feaf961d","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:23:55 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598477035420,"data":{"trip_id":"5f46d2eb2ff6be70feaf961d","tracking_link":"https://bykea.page.link/zgNHM3"}}
+
+RECEIVED DATE: 2020-08-26 21:25:22 
+{"event":"booking.created","event_id":1,"event_time":1598477121906,"data":{"trip_id":"5f46d3412ff6be70feaf9623","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:25:22 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598477122136,"data":{"trip_id":"5f46d3412ff6be70feaf9623","tracking_link":"https://bykea.page.link/yhSCEi"}}
+
+RECEIVED DATE: 2020-08-26 21:26:09 
+{"event":"booking.created","event_id":1,"event_time":1598477167960,"data":{"trip_id":"5f46d36f2ff6be70feaf9629","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:26:09 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598477168284,"data":{"trip_id":"5f46d36f2ff6be70feaf9629","tracking_link":"https://bykea.page.link/5mn8Zm"}}
+
+RECEIVED DATE: 2020-08-26 21:30:17 
+{"event":"batch.expired","event_id":34,"event_time":1598477415052,"data":{"batch_id":"5f46d0d12ff6be70feaf960f","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:30:17 
+{"event":"batch.expired","event_id":34,"event_time":1598477415054,"data":{"batch_id":"5f46d0ab2ff6be70feaf9609","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:30:17 
+{"event":"booking.expired","event_id":8,"event_time":1598477415074,"data":{"trip_id":"5f46d0d12ff6be70feaf9611","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:30:18 
+{"event":"booking.expired","event_id":8,"event_time":1598477415078,"data":{"trip_id":"5f46d0ab2ff6be70feaf960b","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:33:15 
+{"event":"batch.expired","event_id":34,"event_time":1598477595043,"data":{"batch_id":"5f46d17a2ff6be70feaf9615","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:33:16 
+{"event":"booking.expired","event_id":8,"event_time":1598477595060,"data":{"trip_id":"5f46d17a2ff6be70feaf9617","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:39:16 
+{"event":"batch.expired","event_id":34,"event_time":1598477955026,"data":{"batch_id":"5f46d2eb2ff6be70feaf961b","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:39:16 
+{"event":"booking.expired","event_id":8,"event_time":1598477955037,"data":{"trip_id":"5f46d2eb2ff6be70feaf961d","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:41:15 
+{"event":"batch.expired","event_id":34,"event_time":1598478075034,"data":{"batch_id":"5f46d36f2ff6be70feaf9627","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:41:16 
+{"event":"batch.expired","event_id":34,"event_time":1598478075036,"data":{"batch_id":"5f46d3412ff6be70feaf9621","service_code":100}}
+
+RECEIVED DATE: 2020-08-26 21:41:16 
+{"event":"booking.expired","event_id":8,"event_time":1598478075051,"data":{"trip_id":"5f46d36f2ff6be70feaf9629","service_code":21}}
+
+RECEIVED DATE: 2020-08-26 21:41:16 
+{"event":"booking.expired","event_id":8,"event_time":1598478075052,"data":{"trip_id":"5f46d3412ff6be70feaf9623","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 12:19:03 
+{"event":"booking.created","event_id":1,"event_time":1598530743110,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 12:19:04 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598530743430,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","tracking_link":"https://bykea.page.link/7pcEwh"}}
+
+RECEIVED DATE: 2020-08-27 12:20:15 
+{"event":"booking.accepted","event_id":2,"event_time":1598530813221,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923344967754"}}}
+
+RECEIVED DATE: 2020-08-27 12:20:19 
+{"event":"batch.arrived","event_id":29,"event_time":1598530819422,"data":{"batch_id":"5f47a4b72ff6be70feaf9712","service_code":100}}
+
+RECEIVED DATE: 2020-08-27 12:20:20 
+{"event":"booking.arrived","event_id":3,"event_time":1598530819428,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 12:21:30 
+{"event":"batch.started","event_id":30,"event_time":1598530887039,"data":{"batch_id":"5f47a4b72ff6be70feaf9712","service_code":100}}
+
+RECEIVED DATE: 2020-08-27 12:21:30 
+{"event":"booking.started","event_id":4,"event_time":1598530887039,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 12:21:59 
+{"event":"booking.finished","event_id":5,"event_time":1598530918877,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-27 12:22:39 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1598530958498,"data":{"trip_id":"5f47a4b72ff6be70feaf9714","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 19:57:30 
+{"event":"booking.created","event_id":1,"event_time":1598558250400,"data":{"trip_id":"5f48102a2ff6be70feaf977c","service_code":21}}
+
+RECEIVED DATE: 2020-08-27 19:57:31 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598558250633,"data":{"trip_id":"5f48102a2ff6be70feaf977c","tracking_link":"https://bykea.page.link/Tupf7X"}}
+
+RECEIVED DATE: 2020-08-27 20:13:16 
+{"event":"batch.expired","event_id":34,"event_time":1598559195043,"data":{"batch_id":"5f48102a2ff6be70feaf977a","service_code":100}}
+
+RECEIVED DATE: 2020-08-27 20:13:16 
+{"event":"booking.expired","event_id":8,"event_time":1598559195053,"data":{"trip_id":"5f48102a2ff6be70feaf977c","service_code":21}}
+
+RECEIVED DATE: 2020-08-30 08:14:18 
+{"event":"booking.created","event_id":1,"event_time":1598775257750,"data":{"trip_id":"5f4b5fd90cfed43ab489680f","service_code":21}}
+
+RECEIVED DATE: 2020-08-30 08:14:19 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598775258065,"data":{"trip_id":"5f4b5fd90cfed43ab489680f","tracking_link":"https://bykea.page.link/1N8GZx"}}
+
+RECEIVED DATE: 2020-08-30 08:30:16 
+{"event":"batch.expired","event_id":34,"event_time":1598776215053,"data":{"batch_id":"5f4b5fd90cfed43ab489680d","service_code":100}}
+
+RECEIVED DATE: 2020-08-30 08:30:18 
+{"event":"booking.expired","event_id":8,"event_time":1598776215062,"data":{"trip_id":"5f4b5fd90cfed43ab489680f","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:17:45 
+{"event":"booking.created","event_id":1,"event_time":1598876265044,"data":{"trip_id":"5f4cea690cfed43ab4896925","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:17:46 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598876265334,"data":{"trip_id":"5f4cea690cfed43ab4896925","tracking_link":"https://bykea.page.link/eFS6qN"}}
+
+RECEIVED DATE: 2020-08-31 12:19:05 
+{"event":"booking.accepted","event_id":2,"event_time":1598876343990,"data":{"trip_id":"5f4cea690cfed43ab4896925","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-31 12:20:30 
+{"event":"batch.arrived","event_id":29,"event_time":1598876428506,"data":{"batch_id":"5f4cea680cfed43ab4896923","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:20:31 
+{"event":"booking.arrived","event_id":3,"event_time":1598876428514,"data":{"trip_id":"5f4cea690cfed43ab4896925","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:22:36 
+{"event":"batch.started","event_id":30,"event_time":1598876554790,"data":{"batch_id":"5f4cea680cfed43ab4896923","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:22:36 
+{"event":"booking.started","event_id":4,"event_time":1598876554790,"data":{"trip_id":"5f4cea690cfed43ab4896925","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 12:23:23 
+{"event":"booking.finished","event_id":5,"event_time":1598876601697,"data":{"trip_id":"5f4cea690cfed43ab4896925","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-31 12:24:01 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1598876641665,"data":{"trip_id":"5f4cea690cfed43ab4896925","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 12:43:34 
+{"event":"booking.created","event_id":1,"event_time":1598877814151,"data":{"trip_id":"5f4cf0760cfed43ab4896981","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:43:35 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598877814384,"data":{"trip_id":"5f4cf0760cfed43ab4896981","tracking_link":"https://bykea.page.link/KqzNLc"}}
+
+RECEIVED DATE: 2020-08-31 12:44:14 
+{"event":"booking.accepted","event_id":2,"event_time":1598877852242,"data":{"trip_id":"5f4cf0760cfed43ab4896981","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-31 12:44:16 
+{"event":"batch.arrived","event_id":29,"event_time":1598877855686,"data":{"batch_id":"5f4cf0760cfed43ab489697f","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:44:16 
+{"event":"booking.arrived","event_id":3,"event_time":1598877855695,"data":{"trip_id":"5f4cf0760cfed43ab4896981","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:50:29 
+{"event":"batch.cancelled.partner","event_id":33,"event_time":1598878229590,"data":{"batch_id":"5f4cf0760cfed43ab489697f","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:52:12 
+{"event":"booking.created","event_id":1,"event_time":1598878332649,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:52:13 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598878332963,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","tracking_link":"https://bykea.page.link/wkD4rB"}}
+
+RECEIVED DATE: 2020-08-31 12:52:22 
+{"event":"booking.accepted","event_id":2,"event_time":1598878342651,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-31 12:52:30 
+{"event":"batch.arrived","event_id":29,"event_time":1598878349980,"data":{"batch_id":"5f4cf27c0cfed43ab48969ba","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:52:31 
+{"event":"booking.arrived","event_id":3,"event_time":1598878349996,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 12:54:03 
+{"event":"batch.started","event_id":30,"event_time":1598878443356,"data":{"batch_id":"5f4cf27c0cfed43ab48969ba","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:54:06 
+{"event":"booking.started","event_id":4,"event_time":1598878443356,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 12:54:14 
+{"event":"booking.finished","event_id":5,"event_time":1598878452874,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-31 12:55:04 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1598878504377,"data":{"trip_id":"5f4cf27c0cfed43ab48969bc","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 12:59:16 
+{"event":"batch.expired","event_id":34,"event_time":1598878755025,"data":{"batch_id":"5f4cf0760cfed43ab489697f","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 12:59:17 
+{"event":"booking.expired","event_id":8,"event_time":1598878755046,"data":{"trip_id":"5f4cf0760cfed43ab4896981","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 13:05:07 
+{"event":"booking.created","event_id":1,"event_time":1598879106781,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 13:05:07 
+{"event":"booking.updated.trackinglink","event_id":24,"event_time":1598879107020,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","tracking_link":"https://bykea.page.link/YPDQM1"}}
+
+RECEIVED DATE: 2020-08-31 13:05:42 
+{"event":"booking.accepted","event_id":2,"event_time":1598879142397,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","partner":{"name":"Farooq Ali","plate_no":"HDL5716","mobile":"923458502957"}}}
+
+RECEIVED DATE: 2020-08-31 13:07:25 
+{"event":"batch.arrived","event_id":29,"event_time":1598879243052,"data":{"batch_id":"5f4cf5820cfed43ab48969f3","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 13:07:26 
+{"event":"booking.arrived","event_id":3,"event_time":1598879243061,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","service_code":21}}
+
+RECEIVED DATE: 2020-08-31 13:09:04 
+{"event":"batch.started","event_id":30,"event_time":1598879343363,"data":{"batch_id":"5f4cf5820cfed43ab48969f3","service_code":100}}
+
+RECEIVED DATE: 2020-08-31 13:09:05 
+{"event":"booking.started","event_id":4,"event_time":1598879343363,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","service_code":22}}
+
+RECEIVED DATE: 2020-08-31 13:10:38 
+{"event":"booking.finished","event_id":5,"event_time":1598879437773,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","invoice":{"total":0}}}
+
+RECEIVED DATE: 2020-08-31 13:11:40 
+{"event":"booking.feedback.partner","event_id":26,"event_time":1598879499838,"data":{"trip_id":"5f4cf5820cfed43ab48969f5","service_code":22}}
+
